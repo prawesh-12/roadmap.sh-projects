@@ -1,12 +1,16 @@
-# **roadmap.sh Projects**
+# **Roadmap Projects**
 
 ## *All the Frontend Projects from Roadmap.sh*
 
+[Single-Page CV](https://github.com/praw-cool/roadmap.sh-projects/tree/main/Frontend-Projects-roadmap)
+
 ### [1. Single-Page CV](https://github.com/praw-cool/roadmap.sh-projects/tree/main/Frontend-Projects-roadmap)
 
-![Screenshot of the CV](https://github.com/praw-cool/roadmap.sh-projects/blob/main/Assets%20Images/single_cv.png?raw=true)
+<a href="https://github.com/praw-cool/roadmap.sh-projects/blob/main/Assets%20Images/single_cv.png?raw=true" target="_blank">
+    <img src="https://github.com/praw-cool/roadmap.sh-projects/blob/main/Assets%20Images/single_cv.png?raw=true" alt="Screenshot of the CV" style="width: 300px; border: 1px solid #ccc; border-radius: 5px; padding: 5px;">
+</a>
 
-- **Project Overview**: A single-page CV showcasing essential web development skills using Semantic HTML, SEO Meta Tags, Open Graph (OG) Tags, and a Favicon.
+- **Project Overview**: Semantic HTML, SEO Meta Tags, Open Graph (OG) Tags, and a Favicon.
 - **Features**:
   - Implemented all requirements for a well-structured CV.
   - Ensured SEO best practices were followed for better visibility.
