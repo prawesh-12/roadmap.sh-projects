@@ -2,6 +2,8 @@
 
 ## All the Frontend Projects from [roadmap.sh](https://roadmap.sh/)
 
+[Project 1 Single-Page CV of roadmap.sh](https://roadmap.sh/projects/single-page-cv)
+
 [Single-Page CV](https://github.com/praw-cool/roadmap.sh-projects/tree/main/Frontend-Projects-roadmap)
 
 ### [1. Single-Page CV](https://github.com/praw-cool/roadmap.sh-projects/tree/main/Frontend-Projects-roadmap)
