@@ -42,7 +42,7 @@
 ---
 
 ### Note
-As a beginner web developer, I have limited experience in the field. I implemented the provided sample CV as is, ensuring I successfully completed the project requirements without modifications.
+As a beginner web developer, I have limited experience in the field. I implemented the provided sample CV as given in the task, ensuring I successfully completed the project requirements without modifications.
 
 ---
 
